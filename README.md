@@ -61,3 +61,7 @@ Key deployment factors include:
 - GPU capacity
 - Budget
 - Shared API vs dedicated deployment
+
+## Learning Log
+
+- Week 1: Problem framing and deployment decision factors
